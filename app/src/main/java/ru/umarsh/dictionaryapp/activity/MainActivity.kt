@@ -1,4 +1,4 @@
-package ru.umarsh.dictionaryapp
+package ru.umarsh.dictionaryapp.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
